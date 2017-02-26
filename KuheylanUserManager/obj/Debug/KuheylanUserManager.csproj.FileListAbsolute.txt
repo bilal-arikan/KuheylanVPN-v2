@@ -1,0 +1,10 @@
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\obj\Debug\KuheylanUserManager.csprojResolveAssemblyReference.cache
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\obj\Debug\UserManager.FormGiris.resources
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\obj\Debug\UserManager.FormKaydet.resources
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\obj\Debug\KuheylanUserManager.csproj.GenerateResource.Cache
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\obj\Debug\UserManager.Properties.Resources.resources
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\bin\Debug\KuheylanUserManager.exe
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\bin\Debug\KuheylanUserManager.pdb
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\obj\Debug\KuheylanUserManager.exe
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\obj\Debug\KuheylanUserManager.pdb
+D:\CODE\--=#[C]#=--\Kuheylan\KuheylanUserManager\bin\Debug\KuheylanUserManager.exe.config

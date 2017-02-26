@@ -1,0 +1,26 @@
+﻿901 NullReference
+902 WebException
+903 InvalidOperationException
+904 ArgumentNull
+905 Argument
+906 FileNotFoundException
+907 TimeoutException
+908 UnauthorizedAccessException
+909 NotImplementedException
+
+Bilgilendirmeler
+00 "";
+30 "BİLGİLER ALINIYOR...";
+31 "BİLGİLER ALINDI";
+40 "VPN OLUŞTURULUYOR...";
+41 "VPN OLUŞTURULDU";
+50 "BAĞLANTI KURULUYOR...";
+51 "PAROLA DOĞRULANIYOR...";
+59 "--BAĞLANDI--";
+907 "BAĞLANTI ZAMAN AŞIMI";
+908 "ERİŞİM REDDEİLDİ (Yönetici olarak başlatın)";
+60 "VPN KALDIRILIYOR...";
+61 "VPN KALDIRILDI";
+70 "BAĞLANTI KESİLİYOR...";
+71 "--BAĞLANTI KESİLDİ--";
+default "Bilinmeyen Komut";

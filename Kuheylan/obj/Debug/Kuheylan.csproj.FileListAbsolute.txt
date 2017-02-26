@@ -1,0 +1,14 @@
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.FormAbout.resources
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.FormKayit.resources
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.FormLock.resources
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.Properties.Resources.resources
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.csproj.GenerateResource.Cache
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.csprojResolveAssemblyReference.cache
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\bin\Debug\Kuheylan.exe.config
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.Form1.resources
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\bin\Debug\Kuheylan.exe
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\bin\Debug\Kuheylan.pdb
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\bin\Debug\DotRas.dll
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\bin\Debug\HtmlAgilityPack.dll
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.exe
+D:\CODE\--=#[C]#=--\Kuheylan\Kuheylan\obj\Debug\Kuheylan.pdb
