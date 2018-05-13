@@ -1,0 +1,242 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>Welcome to Free VPN Network &mdash; Free VPN Network - Get 6 Free VPN</title>
+	
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="http://www.freevpnnetwork.com/theme/Metrical/stylesheets/base.css">
+	<link rel="stylesheet" href="http://www.freevpnnetwork.com/theme/Metrical/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="http://www.freevpnnetwork.com/theme/Metrical/stylesheets/layout.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="http://www.freevpnnetwork.com/theme/Metrical/images/favicon.ico">
+	<link rel="apple-touch-icon" href="http://www.freevpnnetwork.com/theme/Metrical/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://www.freevpnnetwork.com/theme/Metrical/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://www.freevpnnetwork.com/theme/Metrical/images/apple-touch-icon-114x114.png">
+	
+	<meta name="description" content="Free PPTP VPN Network providing up to 6 VPN services from North America and Europe data centers for extremely smooth and bandwidth rich VPN experience for Free.">
+<meta name="keywords" content="Free VPN Network, Free PPTP VPN Connection, VPN Accounts">
+<link rel="canonical" href="http://www.freevpnnetwork.com/">
+</head>
+
+<body id="index">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-544db7102ac4d993" async="async"></script>
+	<!-- Primary Page Layout
+	================================================== -->
+
+	
+
+	<div id="container" class="container add-bottom">
+		<div class="row">
+		<header id="header" class="sixteen columns">
+			<div id="logo">
+				<h1><a href="http://www.freevpnnetwork.com/">Free VPN Network - Get 6 Free VPN</a></h1>
+			</div>
+			<nav id="navigation">
+				<ul><li class="index current active"><a href="http://www.freevpnnetwork.com/" title="Welcome to Free VPN Network">Home</a></li>
+<li class="benefits"><a href="http://www.freevpnnetwork.com/benefits/" title="Why VPN">Why VPN</a></li>
+<li class="config"><a href="http://www.freevpnnetwork.com/config/" title="Config">Config</a></li>
+</ul>
+			</nav>
+		</header>
+		</div>
+
+
+<div class="row">
+	<section class="two-thirds column">
+		<div style="float: left; margin-bottom: 20px; margin-top: 30px; margin-left: 30px; margin-right: 25px; "><script type="text/javascript">
+    google_ad_client = "ca-pub-8771648197896168";
+    google_ad_slot = "9141628804";
+    google_ad_width = 336;
+    google_ad_height = 280;
+</script><!-- 336 x 280 - Large Rectangle --><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<p>In now days, Virtual Private Network is not just a computer thing that applies to businesses. It is actually an essential method of implementing security in individuals and consumers' daily online activities. VPN connection give users their computers or smartphones a new IP address dedicated to a specific country. If you’re living in Asia or Africa and might be trying to watch favorite America or British videos, this Free VPN Service is here for you.</p>
+<center>
+	<script type="text/javascript">
+    google_ad_client = "ca-pub-8771648197896168";
+    google_ad_slot = "6229735377";
+    google_ad_width = 468;
+    google_ad_height = 15;
+</script><!-- 468 x 15 - Horizontal Medium --><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+<center>
+	<div class="CSSTable">
+		<table>
+			<tbody>
+				<tr>
+					<td>Location</td>
+					<td>VPN Server</td>
+					<td>Protocol</td>
+					<td>Username</td>
+					<td>Password</td>
+				</tr>
+				<tr>
+					<td>US - Illinois - Chicago</td>
+					<td>65.60.11.19</td>
+					<td>PPTP</td>
+					<td>freevpnnetwork.com</td>
+					<td>2475
+</td>
+				</tr>
+				<tr>
+					<td>UK - England - London</td>
+					<td>77.92.87.170</td>
+					<td>PPTP</td>
+					<td>freevpnnetwork.com</td>
+					<td>2311
+</td>
+				</tr>
+				<tr>
+					<td>NL - N. Brabant - Eindhoven</td>
+					<td>95.211.214.169</td>
+					<td>PPTP</td>
+					<td>freevpnnetwork.com</td>
+					<td>1994
+</td>
+				</tr>
+				<tr>
+					<td>CA - Montreal - Quebec</td>
+					<td>184.107.164.108</td>
+					<td>PPTP</td>
+					<td>freevpnnetwork.com</td>
+					<td>2521
+</td>
+				</tr>
+
+
+                                <tr>
+                                        <td>DE - Hessen - Frankfurt</td>
+                                        <td>46.165.220.203</td>
+                                        <td>PPTP</td>
+                                        <td>freevpnnetwork.com</td>
+                                        <td>2253
+</td>
+                                </tr>
+
+
+                                <tr>
+                                        <td>HK - Hong Kong - China</td>
+                                        <td>161.202.39.248</td>
+                                        <td>PPTP</td>
+                                        <td>freevpnnetwork.com</td>
+                                        <td>1999
+</td>
+                                </tr>
+
+
+
+			</tbody>
+		</table>
+	</div>
+</center>
+<center>
+	<p>Please always check this page back for latest up-to-date Free VPN accounts credentials.</p>
+</center>
+<p>VPN services listed above are the answer to your request. VPN is the best way to bypass that and can provide a country specific IP address to the subscriber. Because IP address can be used to trace from which geographical location an internet user is currently accessing their websites, this is the method how USA and UK television shows or those that are featured in Hulu cannot be accessed from other countries outside the United States and United Kingdom. Websites can also filter its content to only be viewable to internet users from a specific geographical area. Hence, some users opt to use VPN and assign their internet connection with a country specific IP address.</p>
+<p>More than that, another essential feature that virtual private networks can offer to individual users is its ability to cloak your internet activities. So why do you need to implement anonymity when surfing the internet? The answer to this is pretty simple; it’s to protect your privacy and data from hackers and malicious intruders that are monitoring internet traffic and usage.</p>
+<p>For those who have been using VPNs in navigating to certain websites, it is ideally a good practice. Nevertheless, choose a VPN service provider like FreeVPNNetwork.com Service that is reliable and trusted - &nbsp;we are the only one offering extremely high performance, free and pure organic VPN accounts to internet.&nbsp;</p>
+<p><strong>Check your New Location After VPN Connected</strong> - <a href="http://ipipip.net" target="_blank"><strong>www.IPIPIP.Net</strong></a></p>
+<center>
+	<iframe frameborder="0" height="86" marginwidth="1" scrolling="no" src="http://tools.ip2location.com/ib1" width="404"></iframe></center>
+<p><font color="red" size="1">Note: All VPN sessions are logged and first 64 bytes of HTTP/HTTPS traffic are logged, in case of Abusing our Free VPN service for illegal or criminal activities, your log data will be submitted to related Authorities when necessary.</font></p>
+	</section>
+	<aside class="one-third column">
+		<h2>Free VPN Network Highlights</h2>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-51be54061e4d6085"></script>
+<!-- AddThis Button END -->	
+<ul> 
+<li>Absolutely FREE! Better than Paid Service</li> 
+<li>300TB/M Bandwidth from 6 Data Centers</li> 
+<li>No Spyware Bundle, 100% Green Network</li> 
+<li>Easy to Setup and Connect in Minutes</li> 
+</ul>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-8771648197896168";
+    google_ad_slot = "5375079077";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- 300 x 250 - Medium Rectangle -->
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-8771648197896168";
+    google_ad_slot = "5375079077";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- 300 x 250 - Medium Rectangle -->
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<div style='position: relative; left: -20px;'>
+<div id="stblpn-w-1371063149928"></div>
+<script type="text/javascript">
+(function() {
+var widget = {
+  'type': 'bestof',
+  'layout': '1',
+  'title': 'VPN Network KnowledgeBase',
+  'id': 'stblpn-w-1371063149928',
+  'topics': ['Internet Security', 'Virtual Private Network', 'OpenVPN', 'Point-to-Point Tunneling Protocol', 'Wireless Energy Transfer']
+}
+if (window.STMBLPN && STMBLPN.Widget ) { if (typeof STMBLPN.Widget == 'function') { new STMBLPN.Widget(widget).render(); } else { STMBLPN.push(widget); } } else {var e, e1; STMBLPN = [widget]; e = document.createElement('SCRIPT'); e.type = 'text/javascript'; e.async = true; e.src = e.src = 'http://platform.stumbleupon.com/1/widgets.js'; e1 = document.getElementsByTagName('SCRIPT')[0]; e1.parentNode.insertBefore(e, e1);};})();
+</script></div>
+<br>	</aside>
+</div>
+<footer class="sixteen columns">
+			<div class="eight columns alpha">
+				Free VPN Network - Get 6 Free VPN &copy; 2017			</div>
+			<div class="eight columns omega">
+			</div>
+					</footer>
+		
+	</div><!-- close container -->
+
+
+<!-- End Document
+================================================== -->
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10101652; 
+var sc_invisible=1; 
+var sc_security="ba7da929"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web stats" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/10101652/0/ba7da929/1/" alt="web stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+</body>
+</html>

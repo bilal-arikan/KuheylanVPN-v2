@@ -1,0 +1,15 @@
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\bin\Debug\Kuheylan2.exe.config
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan.FormMain.resources
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan.FormAbout.resources
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan.FormKayit.resources
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan.FormLock.resources
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan.Properties.Resources.resources
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan2.csproj.GenerateResource.Cache
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\bin\Debug\Kuheylan2.exe
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\bin\Debug\Kuheylan2.pdb
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan2.exe
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan2.pdb
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan.VpnListViewItem.resources
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\bin\Debug\nunit.framework.dll
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\bin\Debug\nunit.framework.xml
+D:\CODE\--=#[C]#=--\Kuheylan2\Kuheylan2\obj\Debug\Kuheylan2.csprojResolveAssemblyReference.cache
